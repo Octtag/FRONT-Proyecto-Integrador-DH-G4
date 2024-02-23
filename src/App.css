@@ -1,0 +1,12 @@
+#root {
+  margin: 0;
+  text-align: center;
+  color: #24306E;
+}
+
+body {
+  background-color: #F1F2ED;
+  height: 100%;
+  font-family: Roboto,sans-serif;
+  margin: 0;
+}
